@@ -23,7 +23,7 @@ spec:
       containers:
       - name: chatbot
         imagePullPolicy: Always
-        image: docker.io/saravana1705/chatbot:v7
+        image: docker.io/saravana1705/chatbot:v6
         livenessProbe:
           tcpSocket:
             port: 3000
