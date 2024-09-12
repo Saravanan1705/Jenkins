@@ -9,3 +9,4 @@ curl -s "https://hub.docker.com/v2/repositories/saravana1705/chatbot/tags/?page_
 argocd/uat/app/deployment.yaml
 2573171e0124
 2573171e0124
+jvm-server.options
