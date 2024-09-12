@@ -20,6 +20,7 @@ spec:
       labels:
         app: chatbot
     spec:
+      serviceAccountName: argocd-sa
       containers:
       - name: chatbot
         imagePullPolicy: Always
