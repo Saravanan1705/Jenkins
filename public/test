@@ -15,3 +15,4 @@ http://jenkins-service-pipeline.apps.cluster-2hzpr.2hzpr.sandbox2422.opentlc.com
 triggers {
         githubPush() // Ensures the pipeline triggers on GitHub push events
     }
+chatbot-
