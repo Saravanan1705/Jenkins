@@ -11,3 +11,4 @@ argocd/uat/app/deployment.yaml
 2573171e0124
 jvm-server.options
 http://jenkins-service-pipeline.apps.cluster-2hzpr.2hzpr.sandbox2422.opentlc.com/
+http://jenkins-service-pipeline.apps.cluster-2hzpr.2hzpr.sandbox2422.opentlc.com/
